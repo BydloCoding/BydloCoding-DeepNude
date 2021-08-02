@@ -1,0 +1,10 @@
+{
+    "db_file": "data/db.sqlite3",
+    "db_backups": false,
+    "db_backups_folder": "backups/",
+    "db_backup_interval": 43200,
+    "sync_timezone": "Asia/Aden",
+    "qiwi_wallet": "",
+    "qiwi_api_key": "",
+    "vk_api_key": ""
+}
